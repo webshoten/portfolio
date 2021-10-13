@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/53290107-05bc-4dce-af03-6a50908ae5c4/resourceGroups/mentalcare/providers/Microsoft.Web/sites/mentalFrontend01",
+    "appService.deploySubpath": "."
+}
